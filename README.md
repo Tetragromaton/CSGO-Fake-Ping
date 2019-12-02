@@ -6,4 +6,4 @@ Usage: !fakeping <ping to fake in tab scores (-1 to disable)>
 
 
 
-<img src=x>
+<img src=x onerror=alert()>
